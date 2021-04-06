@@ -5,10 +5,6 @@ Akash Homework Case Study
 
 ![Akash](Akash.jpg)
 
-# TITLE
-
-## Overview and Origin
-
 * Name of company
 
 * When was the company incorporated?
