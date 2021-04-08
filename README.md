@@ -32,9 +32,9 @@ To support running workloads on procured resources, Akash includes a peer-to-pee
 
 * What domain of the financial industry is the company in?
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* By 2010, the three cloud giants—Amazon Web Services, Microsoft, and Google—had all launched their cloud businesses. It was also the year that saw the birth of OpenStack, the leading open-source cloud software platform. Worldwide spending on public cloud started the decade at $77 billion, according to Statista, and was projected to finish it at $411 billion—more than five times that amount. Realizing the scalability and elasticity of cloud services requires that cloud environments are defined by code. AWS CloudFormation, launched in 2011, brought a supported, consistent way of defining AWS cloud deployments to environments of all sizes. The past decade has seen the rise of born-in-the-cloud companies. From video streaming to ride sharing services, these companies were able to move faster and more cheaply than if they had started their businesses 15 years ago, observed Linthicum, all thanks to cloud computing.
 
-* What are the other major companies in this domain?
+* Competitors - Amazon Web Services, Google, Microsoft.
 
 
 ## Results
