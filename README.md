@@ -5,15 +5,15 @@ Akash Homework Case Study
 
 ![Akash](Akash.jpg)
 
-* Name of company
+* Akash Network
 
-* When was the company incorporated?
+* May 13, 2018 is when the company and idea for Akash were born, the went live on 20 Feb 2021.
 
-* Who are the founders of the company?
+* Greg Osuri (CEO) Adam Bozanich (CTO) Boz Menzalji (COO)
 
-* How did the idea for the company (or project) come about?
+* The idea for Akash came about from the team who were already involved in the cloud computing space with AWS and google cloud etc, they noticed short falls throught the entire system with 70% of the total market share being controlled by the big 3x, causing developers high and/or set fee's with no competitors in sight, and the limited potential of flexability, usability and costs of wanting to transfer your developments to a different cloud provider.
 
-* How is the company funded? How much funding have they received?
+* The Company is funded by its native token AKASH (AKT) with the total current market cap of $$320,247,482.
 
 
 ## Business Activities:
