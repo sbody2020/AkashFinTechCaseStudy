@@ -7,7 +7,7 @@ Akash Case Study
 
 * Akash Network
 
-* May 13, 2018 is when the company and idea for Akash were born, the went live on 20 Feb 2021.
+* May 13, 2018 is when the whitepaper and idea for Akash were born, the went live on 20 Feb 2021.
 
 * Greg Osuri (CEO) Adam Bozanich (CTO) Boz Menzalji (COO). the team consists of Maly Ly (CGO) Cheng Wang (CFO) Michael Gushansky (SGMM) Artur Troian (SSE) Olive Kimoto (CCM) Ryan Sumpter (DRE) Eric Urban (DSE) Kelsey Ruiz (HOC) Steph Bernstein (F&OM) Andrii Hnatiuk (RussianCM) Alex Wang (ChineseCM)
 
