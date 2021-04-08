@@ -9,11 +9,11 @@ Akash Homework Case Study
 
 * May 13, 2018 is when the company and idea for Akash were born, the went live on 20 Feb 2021.
 
-* Greg Osuri (CEO) Adam Bozanich (CTO) Boz Menzalji (COO)
+* Greg Osuri (CEO) Adam Bozanich (CTO) Boz Menzalji (COO). the team consists of Maly Ly (CGO) Cheng Wang (CFO) Michael Gushansky (SGMM) Artur Troian (SSE) Olive Kimoto (CCM) Ryan Sumpter (DRE) Eric Urban (DSE) Kelsey Ruiz (HOC) Steph Bernstein (F&OM) Andrii Hnatiuk (RussianCM) Alex Wang (ChineseCM)
 
 * The idea for Akash came about from the team who were already involved in the cloud computing space with AWS and google cloud etc, they noticed short falls throught the entire system with 70% of the total market share being controlled by the big 3x, causing developers high and/or set fee's with no competitors in sight, and the limited potential of flexability, usability and costs of wanting to transfer your developments to a different cloud provider.
 
-* The Company is funded by its native token AKASH (AKT) with the total current market cap of $$320,247,482.
+* The Company is funded by its native token AKASH (AKT) with the total current market cap of $320,247,482.
 
 
 ## Business Activities:
