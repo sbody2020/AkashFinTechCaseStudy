@@ -22,10 +22,7 @@ Akash Homework Case Study
 
 * Anyone wanting to achieve the follwong may be clients using Akash because of its cost advantage, usability, and flexibility to move between cloud providers, and the performance benefits of global deployments. Providers use Akash because it allows them to earn profits from either dedicated or temporarily-unused capacity. Is there any information about the market size of this set of customers? The Cloud Computing market is set to hit $737 Billion, with 53% of global internet traffic out of which Amazon, Google, and Microsoft will deliver 80% of the payload.
 
-* Akash is a cloud platform for real-world applications. The requirements of such applications include:
-• Many workloads deployed across any number of datacenters.
-• Connectivity restrictions which prevent unwanted access to workloads.
-• Self-managed so that operators do not need to constantly tend to deployments.
+* Akash is a cloud platform for real-world applications. The requirements of such applications include: Many workloads deployed across any number of datacenters. Connectivity restrictions which prevent unwanted access to workloads. Self-managed so that operators do not need to constantly tend to deployments.
 To support running workloads on procured resources, Akash includes a peer-to-peer protocol for distributing workloads and deployment configuration to and between a client’s providers. Workloads in Akash are defined as Docker containers. Docker containers allow for highly-isolated and configurable execution environments, and are already part of many cloud-based deployments today.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
