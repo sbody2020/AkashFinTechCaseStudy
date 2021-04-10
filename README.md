@@ -47,10 +47,19 @@ token is the marketplace currency used to pay for leased compute infrastructure 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I would advise Akash to do more marketing, a huge product push with engaging material, graphics, videos, content, knowledge and statistics to try and drive further market engagement and adoption to start the competitive process and throw their names in the ring big time with AWS, Google and Microsoft.
 
-* Why do you think that offering this product or service would benefit the company?
+* Increase its market capital and spot price by listing on the biggest exchanges it can to allow the company to grow faster and achieve its targets quicker to promote futher global decentralization and adoption to its cloud.
 
-* What technologies would this additional product or service utilize?
+* What technologies would this additional product or service utilize? It would utilize financal marketing analytics and data from centres, graphic design programs, and blockchain/cloud engineering to facilitate the correct information and "theme" behind the big push.
 
-* Why are these technologies appropriate for your solution?
+* These technologys are appropriate as they are whats needed to make the team complete the recommendations through software and programs.
+
+## Sources
+* https://akash.network/
+* Akash AKT: Akash Network & Mining Economics whitepaper
+* Akash Network: Decentralized Cloud Infrastructure Marketplace whitepaper
+* https://twitter.com/akashnet_
+* https://twitter.com/gregosuri
+* https://www.nasdaq.com/articles/6-ways-cloud-computing-technology-is-changing-2018-05-02
+* https://news.bitcoin.com/decentralizing-the-web-handshake-akash-and-the-quest-for-censorship-resistance/
