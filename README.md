@@ -43,7 +43,7 @@ token is the marketplace currency used to pay for leased compute infrastructure 
 
 * Alot of the metrics measured in the space are upon Fee's and cost of cloud computing power per business, and also the total market capital VS the amount of users storing information upon that individual cloud service.
 
-* How is your company performing relative to competitors in the same domain? Akash is in its early stages, and even tho it is performing outstandingly in regards to customer experience, savings and performance within its cloud, its market price is severely undervalued as large adoption hasnt started yet.
+* Akash is in its early stages, and even tho it is performing outstandingly in regards to customer experience, savings and performance within its cloud, its market price is severely undervalued as large adoption hasnt started yet.
 
 ## Recommendations
 
