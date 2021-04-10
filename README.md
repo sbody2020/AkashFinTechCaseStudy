@@ -51,7 +51,7 @@ token is the marketplace currency used to pay for leased compute infrastructure 
 
 * Increase its market capital and spot price by listing on the biggest exchanges it can to allow the company to grow faster and achieve its targets quicker to promote futher global decentralization and adoption to its cloud.
 
-* What technologies would this additional product or service utilize? It would utilize financal marketing analytics and data from centres, graphic design programs, and blockchain/cloud engineering to facilitate the correct information and "theme" behind the big push.
+* It would utilize financal marketing analytics and data from centres, graphic design programs, and blockchain/cloud engineering to facilitate the correct information and "theme" behind the big push.
 
 * These technologys are appropriate as they are whats needed to make the team complete the recommendations through software and programs.
 
